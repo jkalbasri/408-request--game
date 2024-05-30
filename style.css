@@ -70,10 +70,10 @@ body .range-slider__range::-webkit-slider-thumb {
   transition: background 0.15s ease-in-out;
 }
 body .range-slider__range::-webkit-slider-thumb:hover {
-  background: #4a08a0;
+  background: #0077E3;
 }
 body .range-slider__range:active::-webkit-slider-thumb {
-  background: #4a08a0;
+  background: #0077E3;
 }
 body .range-slider__range::-moz-range-thumb {
   width: 20px;
@@ -86,7 +86,7 @@ body .range-slider__range::-moz-range-thumb {
   transition: background 0.15s ease-in-out;
 }
 body .range-slider__range::-moz-range-thumb:hover {
-  background: #4a08a0;
+  background: #0077E3;
 }
 body h1 {
   font-weight: 400;
@@ -136,12 +136,12 @@ body button {
   text-transform: uppercase;
   cursor: pointer;
   font-size: 30px;
-  background-color: #4a08a0;
+  background-color: #0077E3;
   transition: all cubic-bezier(0.19, 1, 0.22, 1) 0.3s;
   color: #fff;
 }
 body button:hover, body button:focus {
-  background-color: #34066f;
+  background-color: #0077E3;
 }
 
 @media screen and (max-width: 990px) {

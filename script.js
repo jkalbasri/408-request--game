@@ -8,7 +8,7 @@ new Vue({
     inGame: false,
     timeLimit: 11,
     timer: null,
-    sandColor: '#4a08a0',
+    sandColor: '#0077E3',
     boundsColor: '#BBBBBB',
     message: 'TIME OUT!',
     points: 0,
