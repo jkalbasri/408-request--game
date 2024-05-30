@@ -4,8 +4,8 @@ As part of the Challenge, a physics-based mini-game was designed using the p5.js
 
 <a href="" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/dist/readme.png">
-    <img alt="READMEs Screenshot" src="/dist/readme.png">
+    <source media="(prefers-color-scheme: dark)" srcset="/readme.png">
+    <img alt="READMEs Screenshot" src="/readme.png">
   </picture>
 </a>
 
